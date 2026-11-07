@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Numba JIT cache
+*.nbc
+*.nbi
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# macOS system files
+.DS_Store
+
+# IDE settings
+.vscode/
+.idea/
